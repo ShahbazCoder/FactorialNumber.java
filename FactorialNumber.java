@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Assignment1
+class FactorialNumber
 {
 	public static void main(String args[])
 	{
